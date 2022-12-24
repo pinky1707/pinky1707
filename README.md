@@ -73,7 +73,7 @@
   &nbsp; 
   <!-- GitHub  -->
   <!-- Use your github account as href -->
-  <a title = "Github" href="https://github.com/alnumanqa" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a> 
+  <a title = "Github" href="https://github.com/pinky1707" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a> 
   &nbsp;  
   <!--Maven-->
 <a title = "Maven" href="https://maven.apache.org/download.cgi" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
@@ -136,7 +136,7 @@
 <!-- <h3>More about Me and Future Plans</h3> -->
 <!-- You can write at your own -->
 <h5>  
-This is Pinky Saha. Currently I am working at Kroger as a QA Automation Engineer. Recently I am working on “Fresh Production's” Project where Verizon as a Vendor does a Network agreement with a different company for its network expansion. As a tester, I mimic the role of Engineers to complete the agreement process. I test the newly developed feature manually first, then I start writing the test script based on Java and Selenium based Framework on the story assigned to me.
+This is Pinky Saha. Currently I am working at Kroger as a QA Automation Engineer. Recently I am working on “Fresh Production” which an internal application as a UI funtional tester . As a tester, I mimic the role of Engineers to complete the agreement process. I test the newly developed feature manually first, then I start writing the test script based on Java and Selenium based Framework on the story assigned to me.
 <br>
 In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am preparing myself by learning HTML, CSS, Bootstrap, Javascript and related Framework. I also learn Python to give a footstep for that language. I also have interest for Hadoop Big Data Analysis.
 </h5>
